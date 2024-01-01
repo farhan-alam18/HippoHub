@@ -30,7 +30,7 @@ export default function Home() {
             Your go-to for high-quality{" "}
             <span className="text-red-600">digital assets</span>.
           </h1>
-          <p className="mt-6 text-lg max-w-prose text-muted-foreground">
+          <p className="mt-6 text-lg max-w-prose text-muted-foreground mx-8">
             Welcome to HippoHub, where every asset is team-verified for top
             quality.
           </p>
